@@ -11,4 +11,4 @@ git push-u origin main
   "outputDirectory": "dist",
   "framework": "vite"
 }
-```
+
