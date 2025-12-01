@@ -5,3 +5,10 @@ git commit-m "intitial commit"
 git remote add origin
 https://github.com/rockstarwater-byte/inspection-app.git
 git push-u origin main
+`json
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite"
+}
+```
